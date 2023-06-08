@@ -1,3 +1,35 @@
+# Team Fortress 2 - Game Jolt
+
+Welcome to the TF2 Community on Game Jolt! Wait This isnt Game Jolt erm
+
+# Welcome anyways!
+
+This page is for me to tell you what the community is, and to tell you the mile stones we have had.
+About
+
+The Team Fortress 2 Community was created by me, TheCrafters001, but I am not the only one that runs it. The moderators and I work hard to make the Team Fortress 2 Community a safe place for anyone! We are actively monitoring the community, and featuring posts! If you would like to join the Über-chain, come and visit us!
+Milestones
+
+* Community created October 3rd, 2019
+* 500 Members July 23, 2020
+* Community got verified on November 2nd, 2020
+* 1,000 Members! December 10th, 2020
+* Discord Server Opened! December 25th, 2020
+* 1,500 Members February 10th, 2021
+* 2,000 Members! February 15th, 2021
+* 2,500 Members February 15th, 2021
+* 3,000 Members! February 16th, 2021
+* 3,500 Members February 18th, 2021
+* 4,000 Members! February 21st, 2021
+* 4,500 Members March 3rd, 2021
+* 5,000 Members! March 15th, 2021
+* 5,500 Members April 6th, 2021
+* 6,000 Members! May 9th, 2021
+* 6,500 Members, June ????, 2021
+* 7,000 Members! August 25th, 2021
+* 10,000 Members! March 31st, 2022
+* 14,000 Members! December 9th, 2022
+
 # Rules
 
 ## Ban Evasion Is Not Permitted
@@ -43,3 +75,6 @@ We understand that you want to post stuff and sharing interests, but please, kee
 
 ### Do Not Impersonate Other Users
 Do not, under any circumstance, impersonate other users. Impersonation is taken very seriously. It does not matter if you are impersonating someone on Game Jolt, or from a different site. Parody accounts should be made clear. Any impersonators will lead to a ban, and you will be reported to Game Jolt staff. Identity theft is not a joke.
+
+# Looking to become a Moderator?
+[Click here](https://thecrafters001.github.io/tf2-mod-app.html)!
