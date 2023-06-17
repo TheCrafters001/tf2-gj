@@ -60,7 +60,7 @@ Posting the same post multiple times in one or multiple channels within a short 
 Please only post leaked content in the “Leaked Content Discussion” channel. ***DO NOT LINK TO ANY DOWNLOADS OR PUBLISH A DOWNLOAD. THIS WILL RESULT IN A BAN.*** Leaked content includes the leaked source code, and any maps, images, textures, models, etc.
 
 ## Appealing A Ban
-Sometimes bans are falsely given. It happens, we all make mistakes. We have an appeal process. Please visit [this website](https://thecrafters001.github.io/tf2-ban-appeal.html) to file an appeal.
+Sometimes bans are falsely given. It happens, we all make mistakes. We have an appeal process. Please visit [this website](https://docs.google.com/forms/d/e/1FAIpQLSf5V_-EfJV8zkekOftAXHzVnCUZN28IHxplIRcuCfSEeReTUw/viewform?usp=sf_link) to file an appeal.
 
 ## Misc Rules
 
@@ -77,4 +77,4 @@ We understand that you want to post stuff and sharing interests, but please, kee
 Do not, under any circumstance, impersonate other users. Impersonation is taken very seriously. It does not matter if you are impersonating someone on Game Jolt, or from a different site. Parody accounts should be made clear. Any impersonators will lead to a ban, and you will be reported to Game Jolt staff. Identity theft is not a joke.
 
 # Looking to become a Moderator?
-[Click here](https://thecrafters001.github.io/tf2-mod-app.html)!
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLScPn_TM7w20mbpcU0_e0NnQF9IMU60i-MSBfCSZ6-B6K-QaSw/viewform?usp=sf_link)!
