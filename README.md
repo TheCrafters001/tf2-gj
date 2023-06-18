@@ -76,5 +76,8 @@ We understand that you want to post stuff and sharing interests, but please, kee
 ### Do Not Impersonate Other Users
 Do not, under any circumstance, impersonate other users. Impersonation is taken very seriously. It does not matter if you are impersonating someone on Game Jolt, or from a different site. Parody accounts should be made clear. Any impersonators will lead to a ban, and you will be reported to Game Jolt staff. Identity theft is not a joke.
 
+## Need Support for the TF2 Server?
+Visit [here](https://tf2-gj-server.tawk.help/).
+
 # Looking to become a Moderator?
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLScPn_TM7w20mbpcU0_e0NnQF9IMU60i-MSBfCSZ6-B6K-QaSw/viewform?usp=sf_link)!
