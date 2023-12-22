@@ -3,3 +3,6 @@ You may have noticed recently that I have not been keeping up with the most [rec
 I am no-longer going to be posting every single update in the [TF2 Updates channel](https://gamejolt.com/c/TF2/tf2updates). Instead, I will be only posting major updates (such as holidays, smissmas, and things like that) from now on. I am sorry, but [I don't really use this site much anymore](https://thecrafters001.github.io/blog/posts/2023-11-24-why-i-dont-post-much-on-game-jolt-anymore/), and I do have a life outside the internet. I hope you can understand.
 
 - TheCrafters001
+
+
+[Return to home](/tf2-gj/) | [Return to Game Jolt](https://gamejolt.com/c/TF2)
