@@ -5,4 +5,4 @@ I am no-longer going to be posting every single update in the [TF2 Updates chann
 - TheCrafters001
 
 
-[Return to home](/tf2-gj/) | [Return to Game Jolt](https://gamejolt.com/c/TF2)
+[Return to Official Posts](/tf2-gj/official-posts/) | [Return to home](/tf2-gj/) | [Return to Game Jolt](https://gamejolt.com/c/TF2)
