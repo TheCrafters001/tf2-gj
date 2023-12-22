@@ -80,4 +80,7 @@ Do not, under any circumstance, impersonate other users. Impersonation is taken 
 Visit [here](https://tf2-gj-server.tawk.help/).
 
 # Looking to become a Moderator?
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLScPn_TM7w20mbpcU0_e0NnQF9IMU60i-MSBfCSZ6-B6K-QaSw/viewform?usp=sf_link)!
+~~[Click here](https://docs.google.com/forms/d/e/1FAIpQLScPn_TM7w20mbpcU0_e0NnQF9IMU60i-MSBfCSZ6-B6K-QaSw/viewform?usp=sf_link)!~~
+
+# Official Posts
+[Visit the official posts page here.](/tf2-gj/official-posts/)
