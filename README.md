@@ -84,3 +84,6 @@ Visit [here](https://tf2-gj-server.tawk.help/).
 
 # Official Posts
 [Visit the official posts page here.](/tf2-gj/official-posts/)
+
+
+[Return to home](/tf2-gj/) | [Return to Game Jolt](https://gamejolt.com/c/TF2)
