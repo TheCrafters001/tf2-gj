@@ -25,10 +25,11 @@ Milestones
 * 5,000 Members! March 15th, 2021
 * 5,500 Members April 6th, 2021
 * 6,000 Members! May 9th, 2021
-* 6,500 Members, June ????, 2021
+* 6,500 Members June ????, 2021
 * 7,000 Members! August 25th, 2021
 * 10,000 Members! March 31st, 2022
 * 14,000 Members! December 9th, 2022
+* 15,000 Members! Septemder 26th, 2023
 
 # Rules
 
@@ -77,10 +78,10 @@ We understand that you want to post stuff and sharing interests, but please, kee
 Do not, under any circumstance, impersonate other users. Impersonation is taken very seriously. It does not matter if you are impersonating someone on Game Jolt, or from a different site. Parody accounts should be made clear. Any impersonators will lead to a ban, and you will be reported to Game Jolt staff. Identity theft is not a joke.
 
 ## Need Support for the TF2 Server?
-Visit [here](https://tf2-gj-server.tawk.help/).
+Visit [here](/tf2-gj/support/).
 
 # Looking to become a Moderator?
-~~[Click here](https://docs.google.com/forms/d/e/1FAIpQLScPn_TM7w20mbpcU0_e0NnQF9IMU60i-MSBfCSZ6-B6K-QaSw/viewform?usp=sf_link)!~~
+Closed. Thanks for your intrest!
 
 # Official Posts
 [Visit the official posts page here.](/tf2-gj/official-posts/)
